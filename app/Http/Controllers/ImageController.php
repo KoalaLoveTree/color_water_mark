@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 
 use App\Http\Requests\Image\MarkRequest;
-use App\Models\WaterMarker;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Response;
 
